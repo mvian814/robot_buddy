@@ -1,7 +1,7 @@
 puts "Human, how much currancy equated to your postmeridian meal?"
 cost = gets.chomp.to_f
 
-
+ puts "do you know that that means, human?"
 puts "You foolishly spent $" + cost.to_s + " on sustinance."
 
 puts "Do you need assistance with calculating the tip, human?"
